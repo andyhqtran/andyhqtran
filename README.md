@@ -1,5 +1,6 @@
-![Andy's github stats](https://github-readme-stats.vercel.app/api?username=andyhqtran&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=32&cache_seconds=1800&custom_title=GitHub%20Stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyhqtran&hide_border=true)
-
-![Andy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyhqtran&hide_border=true&custom_title=Coding%20Stats)
+<a href="https://github.com/andyhqtran">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=andyhqtran&theme=transparent&hide=issues,contribs&count_private=true&hide_title=false&show_icons=true&include_all_commits=true&text_bold=false&hide_border=true" />
+</a>
+<a href="https://github.com/andyhqtran">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyhqtran&langs_count=10&layout=compact&theme=transparent&hide_title=false&hide_border=true&hide=css,html,shell" />
+</a>
